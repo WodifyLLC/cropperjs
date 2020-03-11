@@ -1,3 +1,5 @@
+##### Changed the cropper.scss to remove the background-image that was giving warnings inside OutSystems ide and deployments.
+
 # Cropper.js
 
 [![Build Status](https://travis-ci.org/fengyuanchen/cropperjs.svg)](https://travis-ci.org/fengyuanchen/cropperjs) [![Downloads](https://img.shields.io/npm/dm/cropperjs.svg)](https://www.npmjs.com/package/cropperjs) [![Version](https://img.shields.io/npm/v/cropperjs.svg)](https://www.npmjs.com/package/cropperjs)
